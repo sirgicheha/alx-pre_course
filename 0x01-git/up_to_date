@@ -1,1 +1,2 @@
-Use the fetch command
+git fetch origin
+git pull origin
